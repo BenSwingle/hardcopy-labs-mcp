@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.hardcopylabs/hardcopy",
+  "title": "HardCopy Labs",
+  "description": "Order real 3D prints from chat: send an STL or OpenSCAD model, see one price, get it by UPS.",
+  "version": "1.0.0",
+  "websiteUrl": "https://hardcopylabs.com",
+  "icons": [
+    {
+      "src": "https://hardcopylabs.com/logo.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.hardcopylabs.com/mcp"
+    }
+  ]
+}
