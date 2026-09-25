@@ -29,6 +29,11 @@ Then try: *"Design a small cable clip and have HardCopy Labs print it."*
 
 Full setup guide: [hardcopylabs.com/#add](https://hardcopylabs.com/#add)
 
+## Try it without a model
+
+`examples/tiny-bug.stl` is a 20 × 20 × 3 mm test part. Download it, attach it in a chat, and
+ask: *"Is this printable with HardCopy Labs, and what would it cost?"*
+
 ## Tools
 
 | Tool | What it does |
